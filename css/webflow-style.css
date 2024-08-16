@@ -2295,6 +2295,12 @@ p {
   padding-bottom: 50px;
 }
 
+.grey-icon-wrapper.push-top {
+  margin-top: 0;
+  margin-bottom: 38px;
+  padding-top: 50px;
+}
+
 .project-wrapper {
   color: #333;
   -webkit-text-fill-color: inherit;
